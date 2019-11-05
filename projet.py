@@ -1,6 +1,4 @@
 ﻿from tkinter import *
-from random import randint
-from time import time, sleep
 
 CROIX = 1
 ROND = 2
