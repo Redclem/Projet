@@ -1,4 +1,5 @@
 ﻿from tkinter import *
+from random import randint
 
 CROIX = 1
 ROND = 2
